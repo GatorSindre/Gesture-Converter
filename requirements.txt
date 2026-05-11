@@ -1,0 +1,4 @@
+keyboard
+wordfreq
+requests
+kenlm
